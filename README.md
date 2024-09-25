@@ -1,4 +1,4 @@
-## hello welcome : yellow_heart 
+## hello welcome 
 
 <!--
 **IsabMaria/IsabMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
